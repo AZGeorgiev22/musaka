@@ -25,3 +25,8 @@ body{
     font-family: 'Roboto', sans-serif;
     border-radius: 10px;
 }
+.navbar > a {
+    text-decoration: none;
+    color:aqua;
+    font-size: 20px;
+}
