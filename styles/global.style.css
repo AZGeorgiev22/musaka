@@ -25,8 +25,21 @@ position:absolute;
 left:10px;
 top:10px;
 }
-.wraper{
+.wraper1{
     height:30vh;
-    background-color: red;
-    clip-path: polygon(0 75%, 0 29%, 100% 0, 100% 100%);
+    background-color: #032863;
+    clip-path: polygon(0 30%, 100% 0, 100% 100%, 0 100%);
+}
+.wraper2{
+    height:30vh;
+    background-color: #032863;
+    clip-path: polygon(0 0%, 100% 0%, 100% 60%, 0 25%);
+}
+
+
+.wraper3{
+    height:30vh;
+    background-color: #032863;
+    clip-path: polygon(0 35%, 100% 75%, 100% 100%, 0 100%);
+
 }
