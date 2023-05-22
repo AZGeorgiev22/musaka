@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;  
+}
+body{
+    background-color:#141C27;
+}
+.navbar > a {
+    text-decoration: none;
+    color: #05B8BB;
+    font-size: 20px;
+}
+.navbar{
+    display:flex;
+    align-items: center;
+    justify-content: right;
+    gap: 44px;
+    margin-right: 10px;
+    height:70px;
+    position: relative;
+}
+.logo{
+position:absolute;
+left:10px;
+top:10px;
+}
+.wraper{
+    height:30vh;
+    background-color: red;
+    clip-path: polygon(0 75%, 0 29%, 100% 0, 100% 100%);
+}
