@@ -11,3 +11,20 @@
 .wraper1 {
     position: relative;
   }
+  .text{
+    position:absolute;
+    top: 300px;
+    right: 1100px;
+    transform: rotate(-45);
+    color: black;
+    left: 25px;
+    
+}
+.future_link{
+    position:absolute;
+    top: 425px;
+    right: 1030px;
+    transform: rotate(-45);
+    color: black;
+    left: 25px;
+  }
