@@ -32,6 +32,7 @@ top:10px;
     clip-path: polygon(0 30%, 100% 5%, 100% 100%, 0% 90%);
     height: 75vh;
     border-radius: -100px;
+    position: relative;
 }
 .wraper3{
     height:30vh;

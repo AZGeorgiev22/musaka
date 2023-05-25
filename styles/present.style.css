@@ -1,1 +1,13 @@
 @import "global.style.css";
+.introduction{
+    position:absolute;
+    top: 300px;
+    right: 520px;
+    transform: rotate(-45);
+    color: black;
+    left: 25px;
+    
+}
+.wraper1 {
+    position: relative;
+  }
