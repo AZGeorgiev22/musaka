@@ -2,6 +2,7 @@
     margin:0;
     padding:0;
     box-sizing: border-box;  
+    font-family: 'Fira Sans', sans-serif;
 }
 body{
     background-color:#141C27;
@@ -39,6 +40,4 @@ top:10px;
     background-color: #05B8BB;
     clip-path: polygon(0 80%, 100% 90%, 100% 100%, 0 100%);
    height: 70vh;
-
-
 }

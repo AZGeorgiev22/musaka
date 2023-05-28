@@ -1,61 +1,67 @@
 @import "global.style.css";
-.introduction{
-    position:absolute;
-    top: 300px;
-    right: 1100px;
-    transform: rotate(-45);
-    color: black;
-    left: 25px;
-    
+
+.introduction {
+  position: absolute;
+  top: 300px;
+  right: 1100px;
+  transform: rotate(-45);
+  color: black;
+  left: 25px;
+  font-size: 1.5rem;
+
 }
 
-  .past_link{
-    position:absolute;
-    top: 390px;
-    right: 1430px;
-    transform: rotate(-45);
-    color: black;
-  }
-  .wavingrobot{
-    position:absolute;
-    top: 110px;
-    right: 130 px;
-    transform: rotate(-45);
-    width: 600px;
-    left: 1000px;
-  }
-.button{
+.past_link {
   position: absolute;
-width: 300px;
-height: 100px;
-left: 120px;
-top: 550px;
-display: flex;
-justify-content: center;
-align-items: center;
-font-family: Arial, sans-serif;
-font-size: 18px;
-background: #032863;
-border-radius: 15px;
+  top: 390px;
+  right: 1430px;
+  transform: rotate(-45);
+  color: black;
 }
-.buttontext{
+
+.wavingrobot {
+  position: absolute;
+  top: 110px;
+  right: 130 px;
+  transform: rotate(-45);
+  width: 600px;
+  left: 1000px;
+}
+
+.button {
+  position: absolute;
+  width: 300px;
+  height: 100px;
+  left: 350px;
+  top: 570px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  background: #032863;
+  border-radius: 15px;
+}
+
+.buttontext {
   color: azure;
   text-decoration: none;
   position: absolute;
 }
-.Heading{
+
+.Heading {
   position: absolute;
   top: 100px;
   left: 465px;
+  right: 1000px;
   color: azure;
   background: linear-gradient(89.84deg, #0EF6CC 12.18%, #147072 53.25%);
 
--webkit-background-clip: text;
+  -webkit-background-clip: text;
 
--webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: transparent;
 
-background-clip: text;
-
-text-fill-color: transparent;
+  background-clip: text;
+  font-size: 3rem;
 
 }
