@@ -36,11 +36,11 @@
   font-size: 3rem;
 
 }
-.papper {
+.wall-e {
   position: absolute;
   top: 110px;
-  right: 130 px;
+  right: 110 px;
   transform: rotate(-45);
   width: 600px;
-  left: 1000px;
+  left: 1125px;
 }
