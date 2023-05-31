@@ -30,4 +30,40 @@
     transform: rotate(-45);
     color: black;
     left: 25px;
+    font-size: 1.5rem;
+  }
+  .list{
+    position:absolute;
+    top: 450px;
+    right: 520px;
+    transform: rotate(-45);
+    color: black;
+    left: 50px;
+    font-size: 1.5rem;
+  }
+  .text3{
+    position:absolute;
+    top: 930px;
+    right: 1100px;
+    transform: rotate(-45);
+    color: rgb(255, 253, 253);
+    left: 180px;
+    font-size: 1.5rem;
+  }
+  .medicine-robot{
+    position: absolute;
+  top: 760px;
+  right: 110 px;
+  transform: rotate(-45);
+  width: 600px;
+  left: 1300px;
+  }
+  .text-car{
+    position:absolute;
+    top: 300px;
+    right: 100px;
+    transform: rotate(-45);
+    color: black;
+    left: 1400px;
+    font-size: 1.5rem;
   }
