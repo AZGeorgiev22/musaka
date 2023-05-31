@@ -1,5 +1,5 @@
 @import "global.style.css";
-.text{
+.text1{
     position:absolute;
     top: 300px;
     right: 520px;
@@ -11,13 +11,14 @@
 .wraper1 {
     position: relative;
   }
-  .text{
+  .text1{
     position:absolute;
     top: 300px;
-    right: 1100px;
+    right: 1300px;
     transform: rotate(-45);
-    color: black;
+    color: rgb(0, 0, 0);
     left: 25px;
+    font-size: 1.5rem;
     
 }
 .Heading {
@@ -43,4 +44,21 @@
   transform: rotate(-45);
   width: 600px;
   left: 1125px;
+}
+.text3{
+  position:absolute;
+    top: 1000px;
+    right: 100px;
+    transform: rotate(-45);
+    color: rgb(255, 253, 253);
+    left: 1300px;
+    font-size: 1.5rem;
+}
+.old-robot{
+  position: absolute;
+  top: 750px;
+  right: 110 px;
+  transform: rotate(-45);
+  width: 600px;
+  left: 203px;
 }
