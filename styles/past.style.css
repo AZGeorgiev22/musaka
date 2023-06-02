@@ -47,8 +47,9 @@
 }
 .text3{
   position:absolute;
-    top: 1000px;
-    right: 100px;
+    top: 950px;
+    width: 500px;
+    right: 200px;
     transform: rotate(-45);
     color: rgb(255, 253, 253);
     left: 1300px;
@@ -56,9 +57,9 @@
 }
 .old-robot{
   position: absolute;
-  top: 710px;
-  right: 110 px;
+  top: 730px;
+  right: 100 px;
   transform: rotate(-45);
   width: 600px;
-  left: 203px;
+  left: 150px;
 }
