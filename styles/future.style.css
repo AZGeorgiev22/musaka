@@ -67,3 +67,10 @@
     left: 1400px;
     font-size: 1.5rem;
   }
+  .future-car{
+    position: absolute;
+  left: 700px;
+  right: 300px;
+  top: 300px;
+  
+  }
