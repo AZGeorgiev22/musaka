@@ -99,3 +99,67 @@ color: azure;
     background-clip: text;
     font-size: 3rem;
 }
+.Ivanov{
+    position: absolute;
+    top: 180px;
+    left: 420px;
+    right: 1000px;
+    color: azure;
+    font-size: 1.5rem; 
+}
+.Georgiev{
+    position: absolute;
+    top: 230px;
+    left: 1280px;
+    right: 400px;
+    color: azure;
+    font-size: 1.5rem; 
+}
+.Mateev{
+    position: absolute;
+    top: 700px;
+    left: 1320px;
+    right: 380px;
+    color: azure;
+    font-size: 1.5rem;
+}
+.Stoyanov{
+    position: absolute;
+    top: 650px;
+    left: 400px;
+    right: 400px;
+    color: azure;
+    font-size: 1.5rem;
+}
+.git-hub{
+    position: absolute;
+    top: 730px;
+    left: 1360px;
+    right: 380px;
+    color: azure;
+    font-size: 1.5rem;
+}
+.git-hub-a{
+    position: absolute;
+    top: 260px;
+    left: 1330px;
+    right: 400px;
+    color: azure;
+    font-size: 1.5rem; 
+}
+.git-hub-g{
+    position: absolute;
+    top: 700px;
+    left: 400px;
+    right: 400px;
+    color: azure;
+    font-size: 1.5rem;
+}
+.git-hub-s{
+    position: absolute;
+    top: 210px;
+    left: 455px;
+    right: 1000px;
+    color: azure;
+    font-size: 1.5rem; 
+}
