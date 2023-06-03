@@ -14,30 +14,31 @@ color: azure;
 }
 .Georgi{
     position: absolute;
-    left: 800px;
-    top: 700px;
-    width: 50px;
+    left: 625px;
+    top: 550px;
+    width: 230px;
+    height: 330px;
 }
 .Stefan{
     position: absolute;
     left: 625px;
     top: 70px; 
-    width: 250px;
-    height: 350px;
+    width: 230px;
+    height: 330px;
 }
 .Asparuh{
     position: absolute;
     left: 1000px;
     top: 70px; 
-    width: 250px;
-    height: 350px;
+    width: 230px;
+    height: 330px;
 }
 .Maxim{
     position: absolute;
     left: 1000px;
     top: 550px; 
-    width: 250px;
-    height: 350px;  
+    width: 230px;
+    height: 330px;  
 }
 .designer{
     position: absolute;
@@ -72,8 +73,8 @@ color: azure;
 .fd1{
     position: absolute;
     top: 570px;
-    left: 400px;
-    right: 400px;
+    left: 210gpx;
+    right: 800px;
     color: azure;
     background: linear-gradient(89.84deg, #0EF6CC 12.18%, #147072 53.25%);
   
