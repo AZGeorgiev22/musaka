@@ -34,6 +34,6 @@
 <a href="#"><img src="images/wordIcon.png" width=100></a>
 ## 🧑 Collaborators <a name="collaborators"></a>
 - [Asparuh Georgiev](https://github.com/AZGeorgiev22) - Scrum trainer 
-- [Georgi Stoyanov](https://github.com/GSStoyanov22) - Back-end Developer
-- [Maxim Mateev](https://github.com/MPMateev22) - Back-end Developer
+- [Georgi Stoyanov](https://github.com/GSStoyanov22) - Front-end Developer
+- [Maxim Mateev](https://github.com/MPMateev22) - Front-end Developer
 - [Stefan Ivanov](https://github.com/SBIvanov22) - Designer
