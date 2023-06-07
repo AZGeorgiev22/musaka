@@ -164,3 +164,19 @@ color: azure;
     color: azure;
     font-size: 1.5rem; 
 }
+.form 
+{
+    position: absolute;
+    top: 360px;
+    left: 1624px;
+    right: 1000px;
+    color: azure;
+    font-size: 1.5rem; 
+}
+input{
+    background-color: #07ad8f;
+}
+textarea{
+    background-color: #07ad8f;
+
+}
