@@ -39,14 +39,14 @@
   align-items: center;
   font-family: Arial, sans-serif;
   font-size: 18px;
-  background: #033b96;
+  background: #032863;
   border-radius: 15px;
   transition: background-color 0.15s,
       color 0.15s;
 }
 
 .button:hover{
-  background-color: #372088;
+  background-color: #0044B0;
 
 }
 .button:active{
